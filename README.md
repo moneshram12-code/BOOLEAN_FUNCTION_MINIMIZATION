@@ -40,32 +40,33 @@ null law:
    ![annulment law](https://github.com/user-attachments/assets/7c4ee8df-b780-4726-9bb7-5f700f417d72)
 
 idempotent law:
+     
+   ![idempotent law](https://github.com/user-attachments/assets/ebfff5ce-5126-41e4-9ba7-ac15af64e9dd)
 
-    ![idempotent law](https://github.com/user-attachments/assets/d382c04f-fbb4-438d-b222-c77f57475488)
 
 complement law:
 
-    ![complement law](https://github.com/user-attachments/assets/3326e01a-ab19-4ffb-87d1-7ba5ca220f14)
+   ![complement law](https://github.com/user-attachments/assets/3326e01a-ab19-4ffb-87d1-7ba5ca220f14)
 
 distributive law:
 
-     ![distributive law](https://github.com/user-attachments/assets/b0fbc701-e203-4f0d-9784-6915de45f750)
+   ![distributive law](https://github.com/user-attachments/assets/b0fbc701-e203-4f0d-9784-6915de45f750)
 
 De Morgan's law:
 
-      ![de morgan law](https://github.com/user-attachments/assets/de09ab6b-7055-468e-a8ef-35388dc43589)
+   ![de morgan law](https://github.com/user-attachments/assets/de09ab6b-7055-468e-a8ef-35388dc43589)
 
 Absorption law:
 
-       ![absorbtion law](https://github.com/user-attachments/assets/61d19f8e-8c46-4593-a2da-a1afae3a68da)
+   ![absorbtion law](https://github.com/user-attachments/assets/61d19f8e-8c46-4593-a2da-a1afae3a68da)
 
 Associative law:
 
-       ![assosiative law](https://github.com/user-attachments/assets/7e4b6d42-8632-4d78-bcb1-1db4db098086)
+   ![assosiative law](https://github.com/user-attachments/assets/7e4b6d42-8632-4d78-bcb1-1db4db098086)
 
 Commutative law:
 
-        ![commutative law](https://github.com/user-attachments/assets/1415f82f-25ac-43c0-9d4a-97644a9267f2)
+ ![commutative law](https://github.com/user-attachments/assets/1415f82f-25ac-43c0-9d4a-97644a9267f2)
 
  
 **Procedure**

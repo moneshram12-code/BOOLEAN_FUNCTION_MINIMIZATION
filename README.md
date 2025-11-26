@@ -109,23 +109,20 @@ Register Number : 25017815
 **Output:**
 1)
 
-   ![output 1](https://github.com/user-attachments/assets/efc9cd57-b3f3-4414-aa43-60fbe8fe6f93)
+ ![output 1](https://github.com/user-attachments/assets/efc9cd57-b3f3-4414-aa43-60fbe8fe6f93)
 
 2)
-
-    ![output 2](https://github.com/user-attachments/assets/2b03ccc3-498d-488e-bba6-e0b8bf309246)
+ ![output 2](https://github.com/user-attachments/assets/2b03ccc3-498d-488e-bba6-e0b8bf309246)
 
 
 
 **Timing Diagram**
 
 1)
-
-    ![timing diagram 1](https://github.com/user-attachments/assets/53fc8052-1052-4111-bb1b-c2228fb6a402)
+  ![timing diagram 1](https://github.com/user-attachments/assets/53fc8052-1052-4111-bb1b-c2228fb6a402)
 
 2)
-
-   ![timing diagram 2](https://github.com/user-attachments/assets/8561c073-9218-49d1-a52b-5c9be5b5a93d)
+    ![timing diagram 2](https://github.com/user-attachments/assets/8561c073-9218-49d1-a52b-5c9be5b5a93d)
 
 
 **Result:**
